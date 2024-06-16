@@ -21,7 +21,7 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Operating Systems
 - Windows
-- MacOS
+- macOS
 
 ## Certifications
 - CompTIA IT Fundamentals (ITF+) (In-Progress)
