@@ -1,7 +1,7 @@
 # Hello, I'm James!
 <a href="https://linkedin.com/in/jamesahuynh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Current biotechnology and gene therapy specialist looking to transition into the IT field. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study
+Current biotechnology and gene therapy professional looking to transition into the IT field. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study
 
 ## Objective
 
