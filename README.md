@@ -25,7 +25,7 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Certifications
 - CompTIA IT Fundamentals (ITF+)
-- CompTIA A+
+- CompTIA A+ (In-Progress)
 
 ## Projects
 - In-Progress
