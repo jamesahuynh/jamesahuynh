@@ -24,7 +24,8 @@ My profound interest in technology and solving complex problems has led me to de
 - macOS
 
 ## Certifications
-- CompTIA IT Fundamentals (ITF+) (In-Progress)
+- CompTIA IT Fundamentals (ITF+)
+- CompTIA A+
 
 ## Projects
 - In-Progress
