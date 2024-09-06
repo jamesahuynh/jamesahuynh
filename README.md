@@ -15,7 +15,7 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Tools
 
-### Programming
+### Languages
 - MATLAB
 - Python
 
