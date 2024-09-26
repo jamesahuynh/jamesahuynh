@@ -15,13 +15,19 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Tools
 
+### Operating Systems
+- Windows
+- macOS
+
 ### Languages
 - MATLAB
 - Python
 
-## Operating Systems
-- Windows
-- macOS
+### Virtualization
+- VirtualBox
+
+### Other
+- Active Directory
 
 ## Certifications
 - [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/c324ce9e-d466-438b-9adc-36f4c31d8862/public_url)
