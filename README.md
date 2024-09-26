@@ -25,6 +25,7 @@ My profound interest in technology and solving complex problems has led me to de
 
 ### Virtualization
 - VirtualBox
+- VMware Workstation Pro
 
 ### Other
 - Active Directory
