@@ -18,6 +18,7 @@ My profound interest in technology and solving complex problems has led me to de
 ### Operating Systems
 - Windows
 - macOS
+- Linux
 
 ### Languages
 - MATLAB
