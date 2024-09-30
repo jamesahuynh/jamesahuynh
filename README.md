@@ -33,7 +33,8 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Certifications
 - [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/c324ce9e-d466-438b-9adc-36f4c31d8862/public_url)
-- CompTIA A+ (In-Progress)
+- [CompTIA A+](https://www.credly.com/badges/041262ba-a8e7-4ccb-8b74-fb43371cd981/public_url)
+- CompTIA Network+ (In-Progress)
 
 ## Projects
 - In-Progress
