@@ -15,14 +15,14 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Tools
 
-### Languages
-- MATLAB
-- Python
-
 ### Operating Systems
 - Windows
 - macOS
 - Linux
+
+### Languages
+- MATLAB
+- Python
 
 ### Virtualization
 - VirtualBox
