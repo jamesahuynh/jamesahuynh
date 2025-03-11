@@ -40,7 +40,8 @@ My profound interest in technology and solving complex problems has led me to de
 - [CompTIA A+](https://www.credly.com/badges/041262ba-a8e7-4ccb-8b74-fb43371cd981/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/ef0d40a3-e81f-4b29-8f18-b8e7e3287a15/public_url)
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/3556f3ab-6cce-4a41-b3ea-3b133bf697f1/public_url)
-- Google Cybersecurity Professional (In-Progress)
+- Google Cybersecurity Professional
+- CompTIA Security+ (In-Progress)
 
 ## Projects
 - In-Progress
