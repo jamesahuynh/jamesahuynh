@@ -41,7 +41,7 @@ My profound interest in technology and solving complex problems has led me to de
 - [CompTIA Network+](https://www.credly.com/badges/ef0d40a3-e81f-4b29-8f18-b8e7e3287a15/public_url)
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/3556f3ab-6cce-4a41-b3ea-3b133bf697f1/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/5cb05985-e81b-4956-ba9e-a5e625f54ec3/public_url)
-- CompTIA Security+
+- [CompTIA Security+](https://www.credly.com/badges/0b3817c1-7ef6-4255-9d5a-f91cda6a9937/public_url)
 - Microsoft Certified: Azure Fundamentals (In-Progress)
 
 ## Projects
