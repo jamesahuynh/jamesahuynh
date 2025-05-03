@@ -42,7 +42,7 @@ My profound interest in technology and solving complex problems has led me to de
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/3556f3ab-6cce-4a41-b3ea-3b133bf697f1/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/5cb05985-e81b-4956-ba9e-a5e625f54ec3/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/0b3817c1-7ef6-4255-9d5a-f91cda6a9937/public_url)
-- Microsoft Certified: Azure Fundamentals
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JamesH-6284/CCBD021C2CE4AB0?sharingId=14FB1231B9A1E56F)
 - AWS Certified Cloud Practitioner (In-Progress)
 
 ## Projects
