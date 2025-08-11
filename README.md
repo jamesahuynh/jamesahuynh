@@ -44,7 +44,7 @@ My profound interest in technology and solving complex problems has led me to de
 - [CompTIA Security+](https://www.credly.com/badges/0b3817c1-7ef6-4255-9d5a-f91cda6a9937/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JamesH-6284/CCBD021C2CE4AB0?sharingId=14FB1231B9A1E56F)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6b732989-3858-48bd-943d-c2bb135ccfb9/public_url)
-- CompTIA Linux+ (In-Progress)
+- [CompTIA Linux+](https://www.credly.com/badges/e41f71c5-f78f-45aa-bedf-7b813b685c48/public_url)
 
 ## Projects
 - In-Progress
