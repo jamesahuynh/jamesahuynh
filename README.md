@@ -1,11 +1,11 @@
 # Hello, I'm James!
 <a href="https://linkedin.com/in/jamesahuynh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Current biotechnology and gene therapy professional looking to transition into the IT field. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study.
+Current biotechnology and gene therapy professional looking to transition into software engineering. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study.
 
 ## Objective
 
-My profound interest in technology and solving complex problems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My profound interest in technology and solving complex problems has led me to develop a passion for software engineering, and I am now eager to transition into this field.
 
 ## Skills
 
@@ -20,7 +20,7 @@ My profound interest in technology and solving complex problems has led me to de
 - macOS
 - Linux
 
-### Languages
+### Programming
 - MATLAB
 - Python
 
