@@ -47,6 +47,7 @@ My profound interest in technology and solving complex problems has led me to de
 - [CompTIA Linux+](https://www.credly.com/badges/e41f71c5-f78f-45aa-bedf-7b813b685c48/public_url)
 - [Computational Thinking for Problem Solving](https://coursera.org/share/1658fe848f05b269658ec1603aea9352)
 - [Introduction to Programming with Python and Java](https://coursera.org/share/7c67a29511772dd6a0fed3389542c57a)
+- [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/d402c953-6677-484f-be8a-6d7c79739ed0/public_url)
 
 ## Projects
 - In-Progress
