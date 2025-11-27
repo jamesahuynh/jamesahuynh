@@ -48,6 +48,7 @@ My profound interest in technology and solving complex problems has led me to de
 - [Computational Thinking for Problem Solving](https://coursera.org/share/1658fe848f05b269658ec1603aea9352)
 - [Introduction to Programming with Python and Java](https://coursera.org/share/7c67a29511772dd6a0fed3389542c57a)
 - [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/d402c953-6677-484f-be8a-6d7c79739ed0/public_url)
+- [Security Analyst Level 1 (SAL1)](https://www.credly.com/badges/d374c035-295d-492c-91cc-8497837c156c/public_url)
 
 ## Projects
 - In-Progress
