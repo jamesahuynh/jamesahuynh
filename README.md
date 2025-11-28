@@ -11,7 +11,8 @@ My profound interest in technology and solving complex problems has led me to de
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| In-Progress          | In-Progress |
+| In-Progress          | [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab) |
+| In-Progress          | [SOC Automation Lab](https://github.com/jamesahuynh/SOC-Automation-Lab) |
 
 ## Tools
 
