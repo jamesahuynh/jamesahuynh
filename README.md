@@ -51,4 +51,5 @@ My profound interest in technology and solving complex problems has led me to de
 - [Security Analyst Level 1 (SAL1)](https://www.credly.com/badges/d374c035-295d-492c-91cc-8497837c156c/public_url)
 
 ## Projects
-- In-Progress
+- [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab)
+- [SOC Automation Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
