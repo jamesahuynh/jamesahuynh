@@ -4,16 +4,11 @@
 Current biotechnology and gene therapy professional looking to transition into software engineering. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study.
 
 ## Objective
-
 My profound interest in technology and solving complex problems has led me to develop a passion for software engineering, and I am now eager to transition into this field.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab) |
-| Network Traffic Monitoring and Attack Detection          | [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab) |
-| In-Progress          | [SOC Automation Lab](https://github.com/jamesahuynh/SOC-Automation-Lab) |
+## Projects
+- [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab)
+- [SOC Automation Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
 
 ## Tools
 
@@ -51,7 +46,3 @@ My profound interest in technology and solving complex problems has led me to de
 - [Introduction to Programming with Python and Java](https://coursera.org/share/7c67a29511772dd6a0fed3389542c57a)
 - [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/d402c953-6677-484f-be8a-6d7c79739ed0/public_url)
 - [Security Analyst Level 1 (SAL1)](https://www.credly.com/badges/d374c035-295d-492c-91cc-8497837c156c/public_url)
-
-## Projects
-- [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab)
-- [SOC Automation Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
