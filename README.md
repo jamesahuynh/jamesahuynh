@@ -8,7 +8,7 @@ My profound interest in technology and solving complex problems has led me to de
 
 ## Projects
 - [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab)
-- [SOC Automation Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
+- [SOAR EDR Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
 
 ## Tools
 
