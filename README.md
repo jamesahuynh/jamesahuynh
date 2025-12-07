@@ -24,6 +24,9 @@ My profound interest in technology and solving complex problems has led me to de
 ### Networking
 - Wireshark
 
+### SIEM
+- Splunk
+
 ### Virtualization
 - VirtualBox
 - VMware Workstation Pro
