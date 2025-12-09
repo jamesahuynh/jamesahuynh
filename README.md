@@ -33,13 +33,11 @@ My profound interest in technology and solving complex problems has led me to de
 
 ### Other
 - Active Directory
-- Cisco Routing
 
 ## Certifications
 - [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/c324ce9e-d466-438b-9adc-36f4c31d8862/public_url)
 - [CompTIA A+](https://www.credly.com/badges/041262ba-a8e7-4ccb-8b74-fb43371cd981/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/ef0d40a3-e81f-4b29-8f18-b8e7e3287a15/public_url)
-- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/3556f3ab-6cce-4a41-b3ea-3b133bf697f1/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/5cb05985-e81b-4956-ba9e-a5e625f54ec3/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/0b3817c1-7ef6-4255-9d5a-f91cda6a9937/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JamesH-6284/CCBD021C2CE4AB0?sharingId=14FB1231B9A1E56F)
