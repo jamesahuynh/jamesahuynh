@@ -1,16 +1,16 @@
-# Hello, I'm James!
+# Hello, I'm James! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="48">
 <a href="https://linkedin.com/in/jamesahuynh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Current biotechnology and gene therapy professional looking to transition into software engineering. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study.
 
-## Objective
+## :dart: Objective
 My profound interest in technology and solving complex problems has led me to develop a passion for software engineering, and I am now eager to transition into this field.
 
-## Projects
+## :hammer_and_wrench: Projects
 - [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab)
 - [SOAR EDR Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
 
-## Tools
+## :toolbox: Tools
 
 ### Operating Systems
 - Windows
@@ -34,7 +34,7 @@ My profound interest in technology and solving complex problems has led me to de
 ### Other
 - Active Directory
 
-## Certifications
+## :medal_sports: Certifications
 - [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/c324ce9e-d466-438b-9adc-36f4c31d8862/public_url)
 - [CompTIA A+](https://www.credly.com/badges/041262ba-a8e7-4ccb-8b74-fb43371cd981/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/ef0d40a3-e81f-4b29-8f18-b8e7e3287a15/public_url)
