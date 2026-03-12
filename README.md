@@ -13,26 +13,26 @@ My profound interest in technology and solving complex problems has led me to de
 ## :toolbox: Tools
 
 ### Operating Systems
-- Windows
-- macOS
-- Linux
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Programming
-- MATLAB
-- Python
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Networking
-- Wireshark
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### SIEM
-- Splunk
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### Virtualization
-- VirtualBox
-- VMware Workstation Pro
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware%20Workstation%20Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### Other
-- Active Directory
+![Active%20Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## :medal_sports: Certifications
 [![CompTIA IT Fundamentals (ITF+)](https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20(ITF%2B)-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/c324ce9e-d466-438b-9adc-36f4c31d8862/public_url)
