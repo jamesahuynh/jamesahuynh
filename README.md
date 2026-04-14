@@ -1,7 +1,7 @@
 # Hello, I'm James! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="48">
 <a href="https://linkedin.com/in/jamesahuynh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Current biotechnology and gene therapy professional looking to transition into software engineering. Currently building foundational knowledge and skills through certificate completion, professional development, and online resources with self-study.
+Current biotechnology and gene therapy professional looking to transition into software engineering. Currently building foundational knowledge and skills through schooling, certificate completion, professional development, and online resources with self-study.
 
 ## :dart: Objective
 My profound interest in technology and solving complex problems has led me to develop a passion for software engineering, and I am now eager to transition into this field.
