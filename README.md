@@ -1,7 +1,7 @@
 # Hello, I'm James! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="48">
 <a href="https://linkedin.com/in/jamesahuynh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Current biotechnology and gene therapy professional looking to transition into data science. Currently building foundational knowledge and skills through schooling, certificate completion, professional development, and online resources with self-study.
+Former biotechnology and gene therapy professional looking to transition into data science. Currently building foundational knowledge and skills through schooling, certificate completion, professional development, and online resources with self-study.
 
 ## :dart: Objective
 My profound interest in technology and solving complex problems has led me to develop a passion for data science, and I am now eager to transition into this field.
@@ -10,29 +10,14 @@ My profound interest in technology and solving complex problems has led me to de
 - [Active Directory Detection and Monitoring Lab](https://github.com/jamesahuynh/Active-Directory-Detection-and-Monitoring-Lab)
 - [SOAR EDR Lab](https://github.com/jamesahuynh/SOC-Automation-Lab)
 
-## :toolbox: Tools
+## :computer: Skills
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Programming
+### Languages
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Networking
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### SIEM
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-### Virtualization
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware%20Workstation%20Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-### Other
-![Active%20Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### Developer Tools
+![PyCharm](https://img.shields.io/badge/PyCharm-087CFA?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## :medal_sports: Certifications
 [![CompTIA IT Fundamentals (ITF+)](https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20(ITF%2B)-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/c324ce9e-d466-438b-9adc-36f4c31d8862/public_url)
